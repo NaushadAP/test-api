@@ -1,0 +1,151 @@
+{
+    "Job": [{
+            "id": "1",
+            "jobTitle": "Full Stack Developer",
+            "vacancies": "10",
+            "location": "karachi",
+            "shift": "Morning",
+            "hours": "8",
+            "department": "D&D",
+            "jobOverview": "Full stack developers are computer programmers who are proficient in both front and back end coding. Their primary responsibilities include designing user interactions on websites, developing servers, and databases for website functionality, and coding for mobile platforms.",
+            "jobDescription": [
+                "designing user interactions on websites",
+                "developing servers,",
+                "databases for website functionality",
+                "coding for mobile platforms"
+            ],
+            "jobQualification": [
+                "O Levels/Matric or above",
+                "Excellent command over English",
+                "Excellent communication",
+                "Advanced Coding Skills",
+                "JS",
+                "MERN Stack"
+            ],
+            "perks": [
+                "Medical Insurance",
+                "Permanent Employment Status",
+                "Provident Fund",
+                "Internal Job Opportunities",
+                "Annual Leaves",
+                "Leaves Encashment",
+                "Referral Bonus",
+                "Company Pick & Drop"
+            ]
+        },
+        {
+            "id": "2",
+            "jobTitle": "International sales executive",
+            "vacancies": "10",
+            "location": "karachi",
+            "shift": "evening",
+            "hours": "9",
+            "department": "Sales",
+            "jobOverview": "An Inbound Sales Specialist plays an important in achieving our ambitious customer acquisition and revenue growth objectives. S/he is comfortable receiving a healthy number of calls per day, generating interest, qualifying prospects, closing sales and ensuring monthly sales conversion benchmark.",
+            "jobDescription": [
+                "Receive/Cater inbound calls to promote and sell the product/service.",
+                "Correspond with customers, track and resolving any issues regarding product/service.",
+                "Ensure customer follow-up all the time",
+                "Handle customer needs and requirements",
+                "Respond and resolve customer inquiries",
+                "Identify Rapport Building Opportunities",
+                "Ensure monthly sales conversion benchmark",
+                "Being alert to upselling opportunity"
+            ],
+            "jobQualification": [
+                "O Levels/Matric or above",
+                "Excellent command over English",
+                "Excellent communication",
+                "Sales flare",
+                "Flexibility",
+                "Adaptability"
+            ],
+            "perks": [
+                "Medical Insurance",
+                "Permanent Employment Status",
+                "Provident Fund",
+                "Internal Job Opportunities",
+                "Annual Leaves",
+                "Leaves Encashment",
+                "Referral Bonus",
+                "Company Pick & Drop"
+            ]
+        },
+        {
+            "id": "3",
+            "jobTitle": "Customer Support Specialist - International",
+            "vacancies": "10",
+            "location": "karachi",
+            "shift": "evening",
+            "hours": "9",
+            "department": "Sales",
+            "jobOverview": "Do you think you have what it takes to talk your way through customers and bring about a positive change in customer engagement? We are looking for an incredible resource who can do wonders in the world of CX. This job role would require you to have all the information related to technology. Hence, when a regular person is having difficulty in handling or resolving any particular customer grievance - that is where you come into the play.",
+            "jobDescription": [
+                "Interact with customers to provide and process information in response to inquiries, concerns, and requests about products and/or services",
+                "Collaborate and build relationships with customers to strengthen service competitiveness",
+                "Communicate back to customers, track, and resolve any issues regarding the service in a timely and efficient manner",
+                "Ensure a positive Customer Experience ultimately leading to a good Quality Assurance (QA) Score"
+            ],
+            "jobQualification": [
+                "O Levels/Matric or above",
+                "Excellent command over English",
+                "American or neutral accent",
+                "Sales flare",
+                "Flexibility",
+                "Proficiency with MS Office (Particularly MS Excel and MS Word)"
+            ],
+            "perks": [
+                "Medical Insurance",
+                "Permanent Employment Status",
+                "Provident Fund",
+                "Internal Job Opportunities",
+                "Annual Leaves",
+                "Leaves Encashment",
+                "Referral Bonus",
+                "Company Pick & Drop"
+            ]
+        },
+        {
+            "id": "4",
+            "jobTitle": "Principal Linux Administrator",
+            "vacancies": "10",
+            "location": "karachi",
+            "shift": "evening",
+            "hours": "9",
+            "department": "System Administrations",
+            "jobOverview": "a Principle Linux System Administrator, with strong Linux, troubleshooting, network and scripting skills, to join our Global Server Operations team. The candidate in this position will take a lead role in supporting and building these highly available and highly scalable solutions that help empower Facilities to fulfill thousands of users globally! The ideal candidate for this job has extensive IT knowledge, with previous experience as a Principle Linux administrator, maintaining and developing solutions in a large-scale environment.",
+            "jobDescription": [
+                "Infrastructure Support",
+                "System Tuning and enhancements",
+                "Automation of daily routines",
+                "System deployment",
+                "Security and Audit Compliance",
+                "Applications scalability",
+                "Application Redundancy"
+            ],
+            "jobQualification": [
+                "Experience with Systems administration in Linux/Unix (Ubuntu, CentOS, RedHat, Solaris, etc)",
+                "Hands-on systems admin and administrative experience in networking, storage systems, Linux operating systems, and infrastructure as code",
+                "Proficient with scripting in Shell (bash, KSH) and Python.Excellent communicationProficient with scripting in Shell (bash, KSH) and Python.",
+                "Experience with Virtualization (VMware, Hypervisor)",
+                "Working knowledge in an orchestration and configuration management tool (preferably Ansible).",
+                "Good understanding of Infrastructure and security services like Load Balancing, Firewall, TLS encryption etc.",
+                "Good architectural experience in component placement for a traditional 3 tier application and microservices-based applications.",
+                "Proficiency in production troubleshooting, including distributed systems.",
+                "Experience architecting infrastructure solutions using both Linux/Unix and Windows with specific recommendations on the server, load balancing, HA/DR, & storage architectures.",
+                "Working knowledge of Linux Containerized environments (one of \"Open Contained Initiative\", Docker, CoreOS).",
+                "Extensive experience in \"Infrastructure as Code\" and automation as the way to manage infrastructure."
+            ],
+            "perks": [
+                "Medical Insurance",
+                "Permanent Employment Status",
+                "Provident Fund",
+                "Internal Job Opportunities",
+                "Annual Leaves",
+                "Leaves Encashment",
+                "Referral Bonus",
+                "Company Pick & Drop"
+            ]
+        }
+    ]
+}
